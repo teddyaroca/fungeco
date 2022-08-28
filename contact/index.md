@@ -14,27 +14,27 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="teddy.garcia@unl.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="teddy.garcia@unl.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(402) 472-2858"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-402-472-2858"
   style="button"
 %}
 {%
   include link.html
-  type="address"
+  type="406 Plant Sciences Hall, Lincoln, NE 68503"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Plant+Sciences+Hall/@40.8311899,-96.668423,17z/data=!4m13!1m7!3m6!1s0x8796bea0d9f1319f:0xf78bf579792ac57c!2sPlant+Sciences+Hall,+Lincoln,+NE+68503!3b1!8m2!3d40.8311899!4d-96.6662343!3m4!1s0x8796bea1280ea54d:0x4fbcaeccd3065e2f!8m2!3d40.8311941!4d-96.6658196"
   style="button"
 %}
 {:.center}
